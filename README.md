@@ -11,7 +11,7 @@ Top 5 New Desirable Functionalities:
 
 Figma Link: https://www.figma.com/file/1vEUtmQ14Z0LTgqzE7AxoM/Assignment2-NathanPinto
 
-Youtube Link:
+Youtube Link: https://youtu.be/uGKMUvczr8M
 
 Screenshots:
 
