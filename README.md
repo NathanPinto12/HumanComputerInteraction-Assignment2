@@ -10,6 +10,7 @@ Top 5 New Desirable Functionalities:
 5. Chat rooms so that students/professors can commincate effectively. (Faster than sending emails)
 
 Figma Link: https://www.figma.com/file/1vEUtmQ14Z0LTgqzE7AxoM/Assignment2-NathanPinto
+
 Youtube Link:
 
 Screenshots:
